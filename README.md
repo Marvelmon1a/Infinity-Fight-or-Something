@@ -6,7 +6,7 @@ Controls:
 A/D: Horizontal Movement
 W/Space: Jump
 Click: Attack Base
-Click halten: Double Jump as a placeholder, might make it into the full ver.
+Click (Hold): Double Jump as a placeholder, might make it into the full ver.
 F: Defensive Ability
 X: Special Ability
 

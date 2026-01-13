@@ -1,12 +1,1 @@
-- Added a charge attack. Hold the mouse button to unleash it.
-- Delta Time is now fully patched out in the problem making aspects
-- The upgrade menu has been slightly revamped with a small new look.
-- In preparation for future updates and for balancing, the upgrade values have
-been toned down significantly:
-	Damage: 27% -> 7%
-	Speed: 5% -> 2%
-	Jump Boost: 5% -> 3%
-	Health: 2 -> 1
-	Healthregen: 25% -> 10%
-- Denoodled some scripts for a bit
-- Fixed a bug where you could interact with UI buttons mid-transition
+- Added some i-frames when using defensive attacks for better useability

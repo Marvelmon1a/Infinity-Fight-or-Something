@@ -6,18 +6,18 @@ Controls:
 A/D: Horizontal Movement
 W/Space: Jump
 Click: Attack Base
-Click (Hold): Double Jump as a placeholder, might make it into the full ver.
+Click (Hold): Charge your Base Attack. Click (Release) to unleash
 F: Defensive Ability
 X: Special Ability
+
+A passive attack is visible on the top right (red). The current grants you a damage increase the less of your HP is left.
 
 (DE)
 A/D: Links-Rechts-Bewegung
 W/Space: Springen
 Click: Angreifen
-Click halten: Double Jump als Platzhalter. Könnte aber später bei genügend Interesse drinbleiben
+Click halten: Lade deine Basisattacke auf. Click (loslassen) für einen geladenen Schlag
 F: Defensive Fähigkeit
 X: Spezielle Fähigkeit
 
 Außerdem erscheint eine passive Fähigkeit oben rechts (rot). Die momentane verleiht euch lediglich mehr Schaden je weniger HP ihr habt.
-
-Beim Game-Over-Screen müsst ihr momentan warten bis ihr ins Main Menü zurückkommt. Sorry.

@@ -1,1 +1,5 @@
-- Added some i-frames when using defensive attacks for better useability
+- Some code denoodling
+- Readied and organized the enemy scripts for future updates
+- Reworked the enemy spawning to a weight based system,
+where most of the waves have set enemies or/and chosen weights.
+This opens up space for advanced wave challenges and checkpoints.

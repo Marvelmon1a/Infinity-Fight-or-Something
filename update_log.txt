@@ -1,5 +1,24 @@
-- Some code denoodling
-- Readied and organized the enemy scripts for future updates
-- Reworked the enemy spawning to a weight based system,
-where most of the waves have set enemies or/and chosen weights.
-This opens up space for advanced wave challenges and checkpoints.
+New enemies and BOSSES are infiltrating the realms! Time to show them who's the real boss...
+
+Balance Changes:
+- Nerfed the given iFrames on a bounce by 50% (from 10 frames [0.33 secs] to 5 [0.17 secs])
+- Buffed the health regen upgrade now giving 10% per tier for a 50% total
+- Spiky enemies now cannot attack while stunned
+- Nerfed currency gain
+
+Update Additions:
+- Added inputs to adjust volume (+ and -). Volume is set to 50% on play
+- Implemented a proper camera control to tamper with
+- Improved the Gameplay-UI
+- Added a wave, score and combo counter
+- Added a proper currency counter for the UIs
+- Reworked the soundtrack-system and reduced filesizes.
+- Modified Blocky Scratchcat's design to be a bit more...uh...punching
+- Improved the round start screen
+- Improved on the existing enemies. They should feel a little less stale now
+- Improved the Wave system even more
+- 3 new enemies have been added to be discovered in the loop
+- Watch out! Sentinels are now paying visits between rounds
+- A boss is now causing trouble for the players
+- Finished the gameover screen so that you can (finally) leave or replay via buttons instead of waiting 4-10 seconds
+- Some bugfixes
